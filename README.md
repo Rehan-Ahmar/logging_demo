@@ -1,2 +1,1 @@
-# logging_demo
-Python Logging Demo
+# Python Logging Demos
